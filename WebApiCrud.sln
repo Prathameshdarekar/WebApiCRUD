@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCrudCodeFirst", "WebA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSimpCRUD", "WebApiSimpCRUD\WebApiSimpCRUD.csproj", "{D3066F95-D410-4384-80A4-08FB05B445D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCrudDBFirst", "WebApiCrudDBFirst\WebApiCrudDBFirst.csproj", "{E0EE4C84-D7EF-4AB3-A17E-6823870E75DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D3066F95-D410-4384-80A4-08FB05B445D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3066F95-D410-4384-80A4-08FB05B445D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3066F95-D410-4384-80A4-08FB05B445D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0EE4C84-D7EF-4AB3-A17E-6823870E75DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EE4C84-D7EF-4AB3-A17E-6823870E75DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EE4C84-D7EF-4AB3-A17E-6823870E75DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EE4C84-D7EF-4AB3-A17E-6823870E75DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
